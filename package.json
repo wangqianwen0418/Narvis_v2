@@ -19,12 +19,15 @@
   },
   "homepage": "https://github.com/wangqianwen0418/Narvis_v2#readme",
   "dependencies": {
-    "@types/react": "^15.0.33",
+    "@types/material-ui": "^0.17.18",
+    "@types/react": "^15.0.39",
     "@types/react-bootstrap": "0.0.52",
     "@types/react-dom": "^15.5.1",
+    "material-ui": "^0.18.7",
     "react": "^15.6.1",
     "react-bootstrap": "^0.31.0",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "react-tap-event-plugin": "^2.0.1"
   },
   "devDependencies": {
     "awesome-typescript-loader": "^3.2.1",
